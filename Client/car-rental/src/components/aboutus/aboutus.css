@@ -1,0 +1,64 @@
+/* styles.css */
+
+.body1 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    background-size: cover;
+   
+  }
+  
+  .container6 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(64, 133, 158, 0.69);
+  }
+  
+  .h2 {
+    color:white;
+    padding: 20px;
+    background-color: #7dc1ba;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image :url('../../../public/images/C3.jpg');
+  
+    height: 300PX;
+    background-size: cover;
+    text-align: left;
+    font-size: 40px;
+  
+  }
+  
+  center~p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: black;
+    font-style:normal;
+    
+  }
+  
+  
+  
+  
+  .footer {
+    background-color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    font-size: 5px;
+    color: white;
+    padding:-px;
+   
+  }
+  
+  .one {
+    font-size: 10px;
+    color: white;
+  
+  
+  }

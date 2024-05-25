@@ -1,0 +1,36 @@
+.quote
+{
+    color: white;
+    font-size: 50px;
+    margin-top: 140px;
+    margin-left: 10px;
+    /* font-weight: bold; */
+    font-family:Castellar;
+    /* text-shadow: 0px 0px 5px white; */
+    
+}
+
+.home-book-now-btn
+{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 6px white;
+    border-radius: 10px;
+    transition: all 0.5s linear 0s;
+    font-family:Castellar;
+    font-weight: bold;
+    background-color: red;
+}
+.home-book-now-btn:hover{
+    transform: scale(1.1);
+    transition: all 0.5s linear 0s;
+    background-color: rgb(255, 255, 255);
+
+}
+.home-book-now-btn:focus
+{   
+   
+    
+}

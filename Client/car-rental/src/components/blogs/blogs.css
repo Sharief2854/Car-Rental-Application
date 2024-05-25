@@ -1,0 +1,21 @@
+.blog-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Style for the blog card */
+.mb-4 {
+    margin-bottom: 2rem;
+    border: 2px solid lightpink;
+    border-radius: 15px;
+    padding: 1rem;
+    
+}
+
+/* Style for the blog image */
+.img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}

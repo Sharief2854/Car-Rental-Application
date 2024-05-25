@@ -1,0 +1,89 @@
+.container
+{
+    font-size:1vi;
+}
+.card3
+{
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0px 0px 5px black;
+}
+.admin-pic
+{
+    width:20%;
+    border-radius: 100%;
+    /* border: 1px solid black; */
+}
+.welcome-text
+{
+    font-size: 1.1vi;
+}
+/* .form-group
+{
+    position: relative;
+} */
+.text-border-less
+{
+    /* position: absolute; */
+    width: 80%;
+    border-style: none;
+    border-bottom: 1px solid black;
+}
+
+.text-border-less:focus
+{
+    /* border-style: none; */
+    outline-style: none;
+    border-bottom: 2px solid black;
+    
+    /* border: 20px solid red; */
+}
+
+.login-btn
+{
+    width: 85%;
+    background-color:rgb(161, 168, 161);
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 1px black;
+    padding: 2px;
+}
+.login-btn:hover
+{
+    /* transition: all 0.3s linear 0s; */
+    box-shadow: 0px 0px 5px black;
+}
+.forget-password
+{
+    float: right;
+    font-size:1vi;
+}
+.forget-password:hover
+{
+    cursor: pointer;
+    color: red;
+}
+.captcha
+{
+    width: 120px;
+    margin-left: 25px;
+    background-image: url('../../../public/images/captcha.png');
+}
+.captcha-text
+{
+    font-weight: bold;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container7
+{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.captcha-text-enter
+{
+    width: 100px;
+    margin-left: 20px;
+}

@@ -1,0 +1,23 @@
+.captcha
+{
+    width: 120px;
+    margin-left: 25px;
+    background-image: url('../../../../public/images/captcha.png');
+}
+.captcha-text
+{
+    font-weight: bold;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container7
+{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.captcha-text-enter
+{
+    width: 100px;
+    margin-left: 20px;
+}

@@ -1,0 +1,49 @@
+.container8
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(103, 103, 103);
+}
+.center-box
+{
+    
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction: column;
+    width: 25%;
+    gap: 15px;
+    background-color: rgb(255, 255, 255); 
+    /* border: 1px solid black;   */
+    box-shadow: 0px 0px 10px black;
+    border-radius: 10px;
+}
+.success-logo
+{
+    font-size: 4vw;
+    color: green;
+}
+.circle
+{
+    stroke: green;
+    stroke-width: 5;
+    fill: white;
+}
+.check-mark
+{
+    stroke: green;
+    stroke-width: 5;
+    fill: none;
+    stroke-linecap: round;
+    animation: tick 5s linear 2s infinite normal;
+}
+@keyframes tick {
+    100%
+    {
+
+    }
+    
+}
